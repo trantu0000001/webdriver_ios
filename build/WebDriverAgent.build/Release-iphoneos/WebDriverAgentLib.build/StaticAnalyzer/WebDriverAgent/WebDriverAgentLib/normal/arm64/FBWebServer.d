@@ -1,0 +1,32 @@
+dependencies: \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Routing/FBWebServer.m \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Routing/FBWebServer.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/libxml2/libxml/module.modulemap \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Vendor/RoutingHTTPServer/RoutingConnection.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Vendor/CocoaHTTPServer/HTTPConnection.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Vendor/RoutingHTTPServer/RoutingHTTPServer.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Vendor/CocoaHTTPServer/HTTPServer.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Vendor/CocoaHTTPServer/HTTPResponse.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Vendor/RoutingHTTPServer/RouteResponse.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Vendor/RoutingHTTPServer/RouteRequest.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Vendor/CocoaAsyncSocket/GCDAsyncSocket.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Routing/FBCommandHandler.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Routing/FBCommandStatus.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Routing/FBHTTPStatusCodes.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Routing/FBResponsePayload.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Routing/FBRoute.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Utilities/FBErrorBuilder.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Routing/FBExceptionHandler.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Utilities/FBMjpegServer.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Routing/FBTCPSocket.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Routing/FBRouteRequest.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Utilities/FBRuntimeUtils.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Routing/FBSession.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Commands/FBUnknownCommands.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Utilities/FBConfiguration.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/PrivateHeaders/AccessibilityUtilities/AXSettings.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/PrivateHeaders/UIKitCore/UIKeyboardImpl.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/PrivateHeaders/TextInput/TIPreferencesController.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Utilities/FBLogger.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Categories/XCUIDevice+FBHelpers.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework/Modules/module.modulemap

@@ -1,0 +1,10 @@
+dependencies: \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Categories/XCElementSnapshot+FBHitPoint.m \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Categories/XCElementSnapshot+FBHitPoint.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/PrivateHeaders/XCTest/XCElementSnapshot.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/PrivateHeaders/XCTest/CDStructures.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/libxml2/libxml/module.modulemap \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Utilities/FBLogger.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/PrivateHeaders/XCTest/XCUIHitPointResult.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Categories/XCElementSnapshot+FBHelpers.h

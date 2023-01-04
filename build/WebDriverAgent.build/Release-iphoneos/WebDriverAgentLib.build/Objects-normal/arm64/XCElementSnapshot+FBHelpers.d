@@ -1,0 +1,27 @@
+dependencies: \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Categories/XCElementSnapshot+FBHelpers.m \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Categories/XCElementSnapshot+FBHelpers.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/PrivateHeaders/XCTest/XCElementSnapshot.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/PrivateHeaders/XCTest/CDStructures.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/libxml2/libxml/module.modulemap \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Commands/FBFindElementCommands.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Routing/FBCommandHandler.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Routing/FBCommandStatus.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Routing/FBHTTPStatusCodes.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Routing/FBResponsePayload.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Routing/FBRoute.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Utilities/FBRunLoopSpinner.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Utilities/FBLogger.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Utilities/FBXCAXClientProxy.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/PrivateHeaders/XCTest/XCAccessibilityElement.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/PrivateHeaders/XCTest/XCTestDriver.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/PrivateHeaders/XCTest/XCDebugLogDelegate-Protocol.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/PrivateHeaders/XCTest/XCTestDriverInterface-Protocol.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/PrivateHeaders/XCTest/XCTestManager_TestsInterface-Protocol.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/PrivateHeaders/XCTest/XCTestManager_IDEInterface-Protocol.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/PrivateHeaders/XCTest/XCTestManager_ManagerInterface-Protocol.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Utilities/XCTestPrivateSymbols.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/PrivateHeaders/XCTest/XCUIElement.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Categories/XCUIElement+FBWebDriverAttributes.h \
+  /opt/homebrew/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgentLib/Routing/FBElement.h
